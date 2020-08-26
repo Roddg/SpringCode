@@ -1,0 +1,4 @@
+mvn compile - компиляция
+mvn test - тестирование
+mvn package - сборка
+
